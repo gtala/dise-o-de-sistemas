@@ -1,2 +1,2 @@
-# dise-o-de-sistemas
+# diseño-de-sistemas
 tp1c2015
